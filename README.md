@@ -11,3 +11,5 @@ index 503c173..466548e 100644
  This repository is used to practice git.
 +Code review helps us improve changes before merging.
 
+Learning Git fetch and merge.
+
